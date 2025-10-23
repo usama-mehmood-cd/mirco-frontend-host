@@ -33,4 +33,4 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/your-username/micro-frontend-host-app.git
 cd micro-frontend-host-app
-npm install
+yarn install
